@@ -1,2 +1,2 @@
 # Linear-Regression
-Project 3 of CS252 - Mathematical Data Analysis and Visualization. 
+Project 3 of CS252 - Mathematical Data Analysis and Visualization. In this project, you will implement several linear regression algorithms from scratch (Normal equations and QR-based) and compare them with Scipy's built-in method. You will update your plotting code in Analysis to support visualization of fitted linear regression models. The project culminates in extending your code to support polynomial regression, which you will use to explore overfitting.
